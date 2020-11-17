@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/msShanky/case-tracker.github.io.git/static/css/main.9ec2f43d.chunk.css",
+    "main.js": "/msShanky/case-tracker.github.io.git/static/js/main.ec20988f.chunk.js",
+    "main.js.map": "/msShanky/case-tracker.github.io.git/static/js/main.ec20988f.chunk.js.map",
+    "runtime-main.js": "/msShanky/case-tracker.github.io.git/static/js/runtime-main.4c968317.js",
+    "runtime-main.js.map": "/msShanky/case-tracker.github.io.git/static/js/runtime-main.4c968317.js.map",
+    "static/js/2.fbe98573.chunk.js": "/msShanky/case-tracker.github.io.git/static/js/2.fbe98573.chunk.js",
+    "static/js/2.fbe98573.chunk.js.map": "/msShanky/case-tracker.github.io.git/static/js/2.fbe98573.chunk.js.map",
+    "index.html": "/msShanky/case-tracker.github.io.git/index.html",
+    "static/css/main.9ec2f43d.chunk.css.map": "/msShanky/case-tracker.github.io.git/static/css/main.9ec2f43d.chunk.css.map",
+    "static/js/2.fbe98573.chunk.js.LICENSE.txt": "/msShanky/case-tracker.github.io.git/static/js/2.fbe98573.chunk.js.LICENSE.txt",
+    "static/media/logo.db36153e.svg": "/msShanky/case-tracker.github.io.git/static/media/logo.db36153e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c968317.js",
+    "static/js/2.fbe98573.chunk.js",
+    "static/css/main.9ec2f43d.chunk.css",
+    "static/js/main.ec20988f.chunk.js"
+  ]
+}
